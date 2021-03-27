@@ -1,12 +1,18 @@
 ### Updating.. 👋
 
 
-![Hasib's github stats](https://github-readme-stats.vercel.app/api?username=rifat17&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat17&hide=html&layout=compact)]
+![Hasib's github stats](https://github-readme-stats.vercel.app/api?username=rifat17&show_icons=true) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat17&hide=html&layout=compact)
+
+<a href="https://github.com/rifat17/DjangoAuthOperation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat17&repo=DjangoAuthOperation&show_owner=true&show_icons=true" />
+</a>
 
 <a href="https://github.com/rifat17/django_url_uhortener">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat17&repo=django_url_uhortener&show_owner=true&show_icons=true" />
 </a>
+
 <a href="https://github.com/rifat17/API_Login01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat17&repo=API_Login01&show_owner=true&show_icons=true" />
 </a>
